@@ -4,7 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,11 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+
 
 ### Screenshot
 
@@ -46,4 +43,4 @@ mastering css layout
 
 - Website -(https://AbdulazizHussein.netlify.app)
 - Frontend Mentor - [@AbdulazizHussein](https://www.frontendmentor.io/profile/AbdulazizHussein)
-- Twitter - [@/HusAbdul](https://www.twitter.com/HusAbdul)
+- Twitter - [@/HusAbdul](https://www.twitter.com/HusAbdul001)
